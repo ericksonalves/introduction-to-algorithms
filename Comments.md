@@ -15,7 +15,7 @@ Code organization:
     - Hello
     - World
 - __sprint_bugs.txt__ and __sprint_metrics.txt__
-    - Since it is an empty file, why keeping it?
+    - Since it is an empty file, why keeping them?
 - __weaver-report-config.yml__
     - This is probably configured before running it, right?! This information should be available in __BUILDING.md__
 - __weaver_report.sh__
